@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="JavaProgramme Added." />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Lab5 programme added.">
+      <change beforePath="$PROJECT_DIR$/src/Practice/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721394806155</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="JavaProgramme Added.">
+      <option name="closed" value="true" />
+      <created>1721395117705</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721395117705</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab5 programme added.">
+      <option name="closed" value="true" />
+      <created>1721395188088</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721395188088</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +191,7 @@
     <MESSAGE value="V1.2" />
     <MESSAGE value="V1.3" />
     <MESSAGE value="JavaProgramme Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaProgramme Added." />
+    <MESSAGE value="Lab5 programme added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5 programme added." />
   </component>
 </project>
