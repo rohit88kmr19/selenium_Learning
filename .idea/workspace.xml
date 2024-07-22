@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Triangle Pattern Programme Added.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/triangleClassifier.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Triangle Classifier Programme Added.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Leap_Year.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     "Application.FibbSeries.executor": "Run",
     "Application.Lab1.executor": "Run",
     "Application.Lab3.executor": "Run",
+    "Application.Leap_Year.executor": "Run",
     "Application.triangleClassifier.executor": "Run",
     "Application.trianglePattern.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -56,7 +57,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.triangleClassifier">
+  <component name="RunManager" selected="Application.Leap_Year">
     <configuration name="FibbSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FibbSeries" />
       <module name="Selenium_TestingAcademy" />
@@ -70,16 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1" />
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3" />
       <module name="Selenium_TestingAcademy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3" />
+    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Leap_Year" />
       <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leap_Year" />
         <item itemvalue="Application.triangleClassifier" />
         <item itemvalue="Application.trianglePattern" />
         <item itemvalue="Application.FibbSeries" />
         <item itemvalue="Application.Lab3" />
-        <item itemvalue="Application.Lab1" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721631252136</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Triangle Classifier Programme Added.">
+      <option name="closed" value="true" />
+      <created>1721632267205</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721632267205</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +287,7 @@
     <MESSAGE value="Lab6 programme added." />
     <MESSAGE value="Fibbonaci Series Programme Added." />
     <MESSAGE value="Triangle Pattern Programme Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Triangle Pattern Programme Added." />
+    <MESSAGE value="Triangle Classifier Programme Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangle Classifier Programme Added." />
   </component>
 </project>
