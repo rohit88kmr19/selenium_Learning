@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="final Keyword and escape characters.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/LIterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Operators.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Literals and operators file added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/And_Or.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/LIterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LIterals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.And_Or.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.Lab1.executor": "Run",
@@ -59,13 +60,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Final_Keyword">
-    <configuration name="FibbSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FibbSeries" />
+  <component name="RunManager" selected="Application.And_Or">
+    <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Final_Keyword" />
+        <item itemvalue="Application.And_Or" />
         <item itemvalue="Application.Leap_Year" />
+        <item itemvalue="Application.Final_Keyword" />
         <item itemvalue="Application.triangleClassifier" />
         <item itemvalue="Application.trianglePattern" />
-        <item itemvalue="Application.FibbSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721738677090</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Literals and operators file added.">
+      <option name="closed" value="true" />
+      <created>1721739454231</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721739454231</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +340,7 @@
     <MESSAGE value="Leap Year Programme Added." />
     <MESSAGE value="final Keyword" />
     <MESSAGE value="final Keyword and escape characters." />
-    <option name="LAST_COMMIT_MESSAGE" value="final Keyword and escape characters." />
+    <MESSAGE value="Literals and operators file added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Literals and operators file added." />
   </component>
 </project>

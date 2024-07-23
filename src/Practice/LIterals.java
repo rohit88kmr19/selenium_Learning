@@ -2,7 +2,7 @@ package Practice;
 
 public class LIterals {
     public static void main(String[] args) {
-         int a = "rohit";
+         //int a = "rohit";
 
          boolean b= true;
 
