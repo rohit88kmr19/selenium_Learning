@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Literals and And or file added." />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Literals and And or file added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Implicit_Explicit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,7 @@
     "Application.And_Or.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
+    "Application.Implicit_Explicit.executor": "Run",
     "Application.Lab1.executor": "Run",
     "Application.Lab3.executor": "Run",
     "Application.Leap_Year.executor": "Run",
@@ -56,7 +60,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.And_Or">
+  <component name="RunManager" selected="Application.Implicit_Explicit">
     <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
       <module name="Selenium_TestingAcademy" />
@@ -72,6 +76,19 @@
     </configuration>
     <configuration name="Final_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Final_Keyword" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implicit_Explicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Implicit_Explicit" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -109,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.trianglePattern" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Implicit_Explicit" />
         <item itemvalue="Application.And_Or" />
         <item itemvalue="Application.Leap_Year" />
         <item itemvalue="Application.Final_Keyword" />
         <item itemvalue="Application.triangleClassifier" />
-        <item itemvalue="Application.trianglePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721740966924</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Literals and And or file added.">
+      <option name="closed" value="true" />
+      <created>1721741148970</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721741148970</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
