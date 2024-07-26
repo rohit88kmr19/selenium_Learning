@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="String Concepts.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Ternary_operator.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Ternary added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Ternary_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Ternary_operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.Lab1.executor": "Run",
     "Application.Lab3.executor": "Run",
     "Application.Leap_Year.executor": "Run",
+    "Application.Ternary_operator.executor": "Run",
     "Application.triangleClassifier.executor": "Run",
     "Application.trianglePattern.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -62,7 +63,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Concepts_str">
+  <component name="RunManager" selected="Application.Ternary_operator">
     <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
       <module name="Selenium_TestingAcademy" />
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Leap_Year" />
+    <configuration name="Ternary_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Ternary_operator" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ternary_operator" />
         <item itemvalue="Application.Concepts_str" />
         <item itemvalue="Application.Increment_Decrement" />
         <item itemvalue="Application.Implicit_Explicit" />
         <item itemvalue="Application.And_Or" />
-        <item itemvalue="Application.Leap_Year" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721997848130</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Ternary added.">
+      <option name="closed" value="true" />
+      <created>1721997972006</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1721997972006</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,6 +428,7 @@
     <MESSAGE value="Implicit and explicit casting." />
     <MESSAGE value="Increment_DecremenT added." />
     <MESSAGE value="String Concepts." />
-    <option name="LAST_COMMIT_MESSAGE" value="String Concepts." />
+    <MESSAGE value="Ternary added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ternary added." />
   </component>
 </project>
