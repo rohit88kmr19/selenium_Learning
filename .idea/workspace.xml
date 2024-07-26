@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Ternary added.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Ternary added and math sqrt added.">
       <change beforePath="$PROJECT_DIR$/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -404,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721998234708</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Ternary added and math sqrt added.">
+      <option name="closed" value="true" />
+      <created>1722013379464</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013379464</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +444,7 @@
     <MESSAGE value="Increment_DecremenT added." />
     <MESSAGE value="String Concepts." />
     <MESSAGE value="Ternary added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ternary added." />
+    <MESSAGE value="Ternary added and math sqrt added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ternary added and math sqrt added." />
   </component>
 </project>

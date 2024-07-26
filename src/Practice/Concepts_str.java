@@ -74,5 +74,7 @@ public class Concepts_str {
         System.out.println(sq);
         System.out.println(result);
 
+        //Garbage collection , when JVM terminates the programme, ten it clears the memory.
+
     }
 }
