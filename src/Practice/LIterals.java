@@ -4,7 +4,8 @@ public class LIterals {
     public static void main(String[] args) {
          //int a = "rohit";
 
-         boolean b= true;
+         boolean b;
+
 
          String str = null;
         System.out.println(str);
