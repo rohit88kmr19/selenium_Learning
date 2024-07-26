@@ -68,5 +68,11 @@ public class Concepts_str {
         System.out.println(password.indexOf('i'));//Index starts from 0
         System.out.println(password.length());//length starts from 1
 
+        double sq =Math.sqrt(16);
+
+        int result = Math.max(10,23);
+        System.out.println(sq);
+        System.out.println(result);
+
     }
 }
