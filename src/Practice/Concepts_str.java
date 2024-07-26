@@ -44,5 +44,29 @@ public class Concepts_str {
         System.out.println(name5==name6);//false because location is different.
         System.out.println(name4.equals(name5));//True bevause matching the content.
 
+        System.out.println("-------------------");
+        String t1="rohit";
+        char c= t1.charAt(4);//charat starts form 0
+        System.out.println(c);
+        t1=t1.concat("kumar");
+        System.out.println(t1);
+
+        System.out.println("-----------------");
+
+        String password ="Rohit123";
+
+        String pass_u = password.toLowerCase();
+        System.out.println(pass_u);
+        // Here two strings will be created.
+
+        System.out.println(pass_u==password);//False location is different.
+        System.out.println(pass_u.equals(password));//False content not matching one is lowercase and one is uppercase.
+
+        System.out.println(pass_u.equalsIgnoreCase(password));//True because ignoring the lowercase and Upper case letter.
+
+        System.out.println(password.substring(0,4));//
+        System.out.println(password.indexOf('i'));//Index starts from 0
+        System.out.println(password.length());//length starts from 1
+
     }
 }
