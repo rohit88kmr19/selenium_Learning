@@ -27,10 +27,13 @@ public class Concepts_str {
         String str2 = "The Testing Academy";
         //Here, only one string will be created with space in string constant pool as both the names are same.
 
+        System.out.println(str1==str2); //check for the reference means location.
+        System.out.println(str1.equals(str2)); // check for the contents
 
-
-
-
+        String name1 = "The Testing Academy";
+        String name3 = new String("The Testing Academy");
+        System.out.println(name1==name3); //check for the reference means location.False because location is different.
+        System.out.println(name1.equals(name3)); // check for the contents. True because the content is matching
 
     }
 }
