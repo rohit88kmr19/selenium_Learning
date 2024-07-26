@@ -35,5 +35,14 @@ public class Concepts_str {
         System.out.println(name1==name3); //check for the reference means location.False because location is different.
         System.out.println(name1.equals(name3)); // check for the contents. True because the content is matching
 
+        System.out.println("-------------------------------------");
+
+        String name4 = new String("rohit");
+        String name5 = new String("rohit");
+        String name6 = new String("rohit");
+        System.out.println(name4==name5);//False because location is different
+        System.out.println(name5==name6);//false because location is different.
+        System.out.println(name4.equals(name5));//True bevause matching the content.
+
     }
 }
