@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Ternary added and math sqrt added.">
-      <change beforePath="$PROJECT_DIR$/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +62,9 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Concepts_str">
-    <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
+  <component name="RunManager" selected="Application.Final_Keyword">
+    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
+    <configuration name="Final_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Final_Keyword" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Final_Keyword" />
         <item itemvalue="Application.Concepts_str" />
         <item itemvalue="Application.Ternary_operator" />
         <item itemvalue="Application.Increment_Decrement" />
         <item itemvalue="Application.Implicit_Explicit" />
-        <item itemvalue="Application.And_Or" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722013379464</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Ternary added and math sqrt added.">
+      <option name="closed" value="true" />
+      <created>1722013594691</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013594692</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
