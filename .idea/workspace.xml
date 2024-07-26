@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Increment_DecremenT added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Increment_Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Increment_Decrement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.And_Or.executor": "Run",
+    "Application.Concepts_str.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.Implicit_Explicit.executor": "Run",
@@ -61,7 +62,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Increment_Decrement">
+  <component name="RunManager" selected="Application.Concepts_str">
     <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
       <module name="Selenium_TestingAcademy" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Final_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Final_Keyword" />
+    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Concepts_str" />
         <item itemvalue="Application.Increment_Decrement" />
         <item itemvalue="Application.Implicit_Explicit" />
         <item itemvalue="Application.And_Or" />
         <item itemvalue="Application.Leap_Year" />
-        <item itemvalue="Application.Final_Keyword" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721894615664</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Increment_DecremenT added.">
+      <option name="closed" value="true" />
+      <created>1721895468730</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721895468730</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
