@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Test file added.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Condition_loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Condition loops">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Loops_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722018627075</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Condition loops">
+      <option name="closed" value="true" />
+      <created>1722181492239</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1722181492239</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,6 +490,7 @@
     <MESSAGE value="Ternary added and math sqrt added." />
     <MESSAGE value="Ternary added and math sqrt added..." />
     <MESSAGE value="Test file added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Test file added." />
+    <MESSAGE value="Condition loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Condition loops" />
   </component>
 </project>
