@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Test file added.">
-      <change beforePath="$PROJECT_DIR$/src/Practice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Condition_loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,7 @@
   "keyToString": {
     "Application.And_Or.executor": "Run",
     "Application.Concepts_str.executor": "Run",
+    "Application.Condition_loops.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.Implicit_Explicit.executor": "Run",
@@ -63,7 +68,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LIterals">
+  <component name="RunManager" selected="Application.Condition_loops">
     <configuration name="And_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.And_Or" />
       <module name="Selenium_TestingAcademy" />
@@ -79,6 +84,19 @@
     </configuration>
     <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Condition_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Condition_loops" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -116,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Ternary_operator" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Condition_loops" />
+        <item itemvalue="Application.Concepts_str" />
         <item itemvalue="Application.LIterals" />
         <item itemvalue="Application.And_Or" />
         <item itemvalue="Application.Final_Keyword" />
-        <item itemvalue="Application.Concepts_str" />
-        <item itemvalue="Application.Ternary_operator" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722018551867</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Test file added.">
+      <option name="closed" value="true" />
+      <created>1722018627075</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1722018627075</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
