@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Condition loops">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/LeftTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Largest salary, left triangle, loops added.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/trianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/trianglePattern_rightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Loops_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Loops_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Loops_1">
+  <component name="RunManager" selected="Application.Odd_Even">
     <configuration name="Condition_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Condition_loops" />
       <module name="Selenium_TestingAcademy" />
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LeftTriangle" />
+    <configuration name="Loops_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Loops_1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Loops_1" />
+    <configuration name="Odd_Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Odd_Even" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loops_1" />
+        <item itemvalue="Application.Odd_Even" />
         <item itemvalue="Application.Largest_Salary" />
-        <item itemvalue="Application.trianglePattern_rightTriangle" />
-        <item itemvalue="Application.LeftTriangle" />
         <item itemvalue="Application.Condition_loops" />
+        <item itemvalue="Application.Loops_1" />
+        <item itemvalue="Application.trianglePattern_rightTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722182272381</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Largest salary, left triangle, loops added.">
+      <option name="closed" value="true" />
+      <created>1722185994009</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1722185994009</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,6 +511,7 @@
     <MESSAGE value="Ternary added and math sqrt added..." />
     <MESSAGE value="Test file added." />
     <MESSAGE value="Condition loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Condition loops" />
+    <MESSAGE value="Largest salary, left triangle, loops added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Largest salary, left triangle, loops added." />
   </component>
 </project>
