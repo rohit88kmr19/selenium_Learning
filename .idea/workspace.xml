@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Switch added.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Possitive_NegativeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Prog_AgenameSalPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/swich_cond5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/swich_cond6.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Switch, Poss, nega no added.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/swich_cond4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/swich_cond4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,8 @@
     "Application.Condition_loops.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
-    "Application.Grade.executor": "Debug",
+    "Application.FizzBuzzTest.executor": "Run",
+    "Application.Grade.executor": "Run",
     "Application.If_loop.executor": "Run",
     "Application.Implicit_Explicit.executor": "Run",
     "Application.Increment_Decrement.executor": "Run",
@@ -66,6 +63,7 @@
     "Application.Loops_1.executor": "Run",
     "Application.Max_number.executor": "Run",
     "Application.Odd_Even.executor": "Run",
+    "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
@@ -87,7 +85,46 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Possitive_NegativeCheck">
+  <component name="RunManager" selected="Application.FizzBuzzTest">
+    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FizzBuzzTest" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Grade" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LeftTriangle" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Possitive_NegativeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Possitive_NegativeCheck" />
       <module name="Selenium_TestingAcademy" />
@@ -101,47 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog_AgenameSalPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Prog_AgenameSalPrint" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swich_cond4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.swich_cond4" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swich_cond5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.swich_cond5" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swich_cond6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.swich_cond6" />
+    <configuration name="swich_cond2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.swich_cond2" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzzTest" />
+        <item itemvalue="Application.swich_cond2" />
+        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.LeftTriangle" />
         <item itemvalue="Application.Possitive_NegativeCheck" />
-        <item itemvalue="Application.Prog_AgenameSalPrint" />
-        <item itemvalue="Application.swich_cond6" />
-        <item itemvalue="Application.swich_cond5" />
-        <item itemvalue="Application.swich_cond4" />
       </list>
     </recent_temporary>
   </component>
@@ -539,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722409852823</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Switch, Poss, nega no added.">
+      <option name="closed" value="true" />
+      <created>1722423813945</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1722423813945</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaProgramme Added." />
     <MESSAGE value="Lab5 programme added." />
     <MESSAGE value="Lab6 programme added." />
     <MESSAGE value="Fibbonaci Series Programme Added." />
@@ -579,6 +584,7 @@
     <MESSAGE value="odd even added- changes, max programme" />
     <MESSAGE value="Loops and Grade programme added." />
     <MESSAGE value="Switch added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch added." />
+    <MESSAGE value="Switch, Poss, nega no added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch, Poss, nega no added." />
   </component>
 </project>
