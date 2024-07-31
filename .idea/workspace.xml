@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="odd even added- changes.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Max_number.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="odd even added- changes, max programme">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/If_loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_Learning/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_Learning/src/Practice/Concepts_str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_Learning/src/Practice/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,8 @@
     "Application.Condition_loops.executor": "Run",
     "Application.FibbSeries.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
+    "Application.Grade.executor": "Debug",
+    "Application.If_loop.executor": "Run",
     "Application.Implicit_Explicit.executor": "Run",
     "Application.Increment_Decrement.executor": "Run",
     "Application.LIterals.executor": "Run",
@@ -72,22 +76,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Odd_Even">
-    <configuration name="Condition_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Condition_loops" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Largest_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Largest_Salary" />
+  <component name="RunManager" selected="Application.If_loop">
+    <configuration name="FibbSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FibbSeries" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Loops_1" />
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Grade" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.If_loop" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.If_loop" />
+        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.FibbSeries" />
         <item itemvalue="Application.Odd_Even" />
         <item itemvalue="Application.Max_number" />
-        <item itemvalue="Application.Largest_Salary" />
-        <item itemvalue="Application.Condition_loops" />
-        <item itemvalue="Application.Loops_1" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722271478263</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="odd even added- changes, max programme">
+      <option name="closed" value="true" />
+      <created>1722272739983</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1722272739983</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="V1.0" />
     <MESSAGE value="V1.2" />
     <MESSAGE value="V1.3" />
     <MESSAGE value="JavaProgramme Added." />
@@ -533,6 +544,7 @@
     <MESSAGE value="Largest salary, left triangle, loops added." />
     <MESSAGE value="odd even added" />
     <MESSAGE value="odd even added- changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="odd even added- changes." />
+    <MESSAGE value="odd even added- changes, max programme" />
+    <option name="LAST_COMMIT_MESSAGE" value="odd even added- changes, max programme" />
   </component>
 </project>
