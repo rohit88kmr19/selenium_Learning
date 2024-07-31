@@ -3,7 +3,7 @@ package Practice;
 public class swich_cond4 {
     public static void main(String[] args) {
         //For multiple conditions supported, jdk should be greater than 13;
-        int itemcode=010;
+        int itemcode=006;
         switch (itemcode)
         {
             case 001,002,010:
