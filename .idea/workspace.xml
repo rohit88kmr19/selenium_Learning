@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Switch, Poss, nega no added.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/FizzBuzzTest.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="FizzBuzz Programme added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/for_loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/for_loop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/for_loop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/for_loop4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +70,10 @@
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.for_loop2.executor": "Run",
+    "Application.for_loop3.executor": "Run",
+    "Application.for_loop4.executor": "Run",
     "Application.swich_cond2.executor": "Run",
     "Application.swich_cond4.executor": "Run",
     "Application.swich_cond5.executor": "Run",
@@ -85,9 +92,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FizzBuzzTest">
-    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FizzBuzzTest" />
+  <component name="RunManager" selected="Application.for_loop4">
+    <configuration name="Largest_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Largest_Salary" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Grade" />
+    <configuration name="for_loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.for_loop1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LeftTriangle" />
+    <configuration name="for_loop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.for_loop2" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Possitive_NegativeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Possitive_NegativeCheck" />
+    <configuration name="for_loop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.for_loop3" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swich_cond2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.swich_cond2" />
+    <configuration name="for_loop4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.for_loop4" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FizzBuzzTest" />
-        <item itemvalue="Application.swich_cond2" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.LeftTriangle" />
-        <item itemvalue="Application.Possitive_NegativeCheck" />
+        <item itemvalue="Application.for_loop4" />
+        <item itemvalue="Application.for_loop3" />
+        <item itemvalue="Application.for_loop2" />
+        <item itemvalue="Application.for_loop1" />
+        <item itemvalue="Application.Largest_Salary" />
       </list>
     </recent_temporary>
   </component>
@@ -545,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722423813945</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="FizzBuzz Programme added.">
+      <option name="closed" value="true" />
+      <created>1722426377043</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1722426377043</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -560,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab5 programme added." />
     <MESSAGE value="Lab6 programme added." />
     <MESSAGE value="Fibbonaci Series Programme Added." />
     <MESSAGE value="Triangle Pattern Programme Added." />
@@ -585,6 +599,7 @@
     <MESSAGE value="Loops and Grade programme added." />
     <MESSAGE value="Switch added." />
     <MESSAGE value="Switch, Poss, nega no added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch, Poss, nega no added." />
+    <MESSAGE value="FizzBuzz Programme added." />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz Programme added." />
   </component>
 </project>
