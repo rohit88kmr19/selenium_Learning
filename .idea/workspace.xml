@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="For loop added.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Factorial_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Factorial_programme_whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/forLoopContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/forWithEvenOddLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/forwithbreakloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/whileLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/whileLoops.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Factorial, loop, break, continue added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/aray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/doWhileLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/functions_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/functions_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/functions_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/for_loop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/for_loop4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,12 @@
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
+    "Application.aray_2.executor": "Run",
+    "Application.array_1.executor": "Run",
+    "Application.array_3.executor": "Run",
+    "Application.array_4.executor": "Run",
+    "Application.doWhileLoop.executor": "Run",
+    "Application.doWhileLoop1.executor": "Run",
     "Application.forLoopContinue.executor": "Run",
     "Application.forWithEvenOddLoop.executor": "Run",
     "Application.for_loop.executor": "Run",
@@ -83,6 +90,9 @@
     "Application.for_loop3.executor": "Run",
     "Application.for_loop4.executor": "Run",
     "Application.forwithbreakloop.executor": "Run",
+    "Application.functions_1.executor": "Run",
+    "Application.functions_2.executor": "Run",
+    "Application.functions_3.executor": "Run",
     "Application.swich_cond2.executor": "Run",
     "Application.swich_cond4.executor": "Run",
     "Application.swich_cond5.executor": "Run",
@@ -103,35 +113,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factorial_ForLoop">
-    <configuration name="Factorial_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Factorial_ForLoop" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial_programme_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Factorial_programme_whileLoop" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="forWithEvenOddLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.forWithEvenOddLoop" />
+  <component name="RunManager" selected="Application.array_4">
+    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.whileLoop1" />
+    <configuration name="aray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.aray_2" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +140,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.whileLoops" />
+    <configuration name="array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array_1" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array_3" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array_4" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -171,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial_ForLoop" />
-        <item itemvalue="Application.forWithEvenOddLoop" />
-        <item itemvalue="Application.Factorial_programme_whileLoop" />
-        <item itemvalue="Application.whileLoop1" />
-        <item itemvalue="Application.whileLoops" />
+        <item itemvalue="Application.array_4" />
+        <item itemvalue="Application.aray_2" />
+        <item itemvalue="Application.array_3" />
+        <item itemvalue="Application.array_1" />
+        <item itemvalue="Application.Concepts_str" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +589,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722530760749</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Factorial, loop, break, continue added.">
+      <option name="closed" value="true" />
+      <created>1722594819873</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1722594819873</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -594,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fibbonaci Series Programme Added." />
     <MESSAGE value="Triangle Pattern Programme Added." />
     <MESSAGE value="Triangle Classifier Programme Added." />
     <MESSAGE value="Leap Year Programme Added." />
@@ -619,6 +636,7 @@
     <MESSAGE value="Switch, Poss, nega no added." />
     <MESSAGE value="FizzBuzz Programme added." />
     <MESSAGE value="For loop added." />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop added." />
+    <MESSAGE value="Factorial, loop, break, continue added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial, loop, break, continue added." />
   </component>
 </project>
