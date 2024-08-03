@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Factorial, loop, break, continue added.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/aray_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/doWhileLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/functions_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/functions_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/functions_3.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="array, functions, do while added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/array_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,14 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00001" summary="V1.0">
-      <option name="closed" value="true" />
-      <created>1721392662735</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1721392662735</updated>
     </task>
     <task id="LOCAL-00002" summary="V1.2">
       <option name="closed" value="true" />
@@ -597,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722594819873</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="array, functions, do while added.">
+      <option name="closed" value="true" />
+      <created>1722708239602</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1722708239602</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +605,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Triangle Pattern Programme Added." />
     <MESSAGE value="Triangle Classifier Programme Added." />
     <MESSAGE value="Leap Year Programme Added." />
     <MESSAGE value="final Keyword" />
@@ -637,6 +629,7 @@
     <MESSAGE value="FizzBuzz Programme added." />
     <MESSAGE value="For loop added." />
     <MESSAGE value="Factorial, loop, break, continue added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial, loop, break, continue added." />
+    <MESSAGE value="array, functions, do while added." />
+    <option name="LAST_COMMIT_MESSAGE" value="array, functions, do while added." />
   </component>
 </project>
