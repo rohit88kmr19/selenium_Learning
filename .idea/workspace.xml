@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="array, functions, do while added.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/array_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array_6.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="array new file added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/array_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/array_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +73,7 @@
     "Application.array_1.executor": "Run",
     "Application.array_3.executor": "Run",
     "Application.array_4.executor": "Run",
+    "Application.array_6.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.doWhileLoop1.executor": "Run",
     "Application.forLoopContinue.executor": "Run",
@@ -106,7 +106,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.array_4">
+  <component name="RunManager" selected="Application.array_6">
     <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
       <module name="Selenium_TestingAcademy" />
@@ -172,13 +172,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="array_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array_6" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.aray_2" />
+      <item itemvalue="Application.array_1" />
+      <item itemvalue="Application.array_3" />
+      <item itemvalue="Application.array_4" />
+      <item itemvalue="Application.array_6" />
+      <item itemvalue="Application.Concepts_str" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array_6" />
         <item itemvalue="Application.array_4" />
         <item itemvalue="Application.aray_2" />
         <item itemvalue="Application.array_3" />
         <item itemvalue="Application.array_1" />
-        <item itemvalue="Application.Concepts_str" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +218,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00002" summary="V1.2">
-      <option name="closed" value="true" />
-      <created>1721392860044</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1721392860044</updated>
     </task>
     <task id="LOCAL-00003" summary="V1.2">
       <option name="closed" value="true" />
@@ -590,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722708239602</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="array new file added.">
+      <option name="closed" value="true" />
+      <created>1722709015274</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1722709015274</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -605,7 +626,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Triangle Classifier Programme Added." />
     <MESSAGE value="Leap Year Programme Added." />
     <MESSAGE value="final Keyword" />
     <MESSAGE value="final Keyword and escape characters." />
@@ -630,6 +650,7 @@
     <MESSAGE value="For loop added." />
     <MESSAGE value="Factorial, loop, break, continue added." />
     <MESSAGE value="array, functions, do while added." />
-    <option name="LAST_COMMIT_MESSAGE" value="array, functions, do while added." />
+    <MESSAGE value="array new file added." />
+    <option name="LAST_COMMIT_MESSAGE" value="array new file added." />
   </component>
 </project>
