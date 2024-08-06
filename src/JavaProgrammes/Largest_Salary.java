@@ -14,6 +14,9 @@ public class Largest_Salary {
             sal[i] = sc.nextInt();
 
         }
+        for (int i = 0; i < length; i++) {
+            System.out.println("Salary of Employee" + " " + (i + 1) + ":"+sal[i]);
+        }
             int highest_sal = sal[0];
             for (int i = 1; i < sal.length; i++) {
                 if (sal[i] > highest_sal) {

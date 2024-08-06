@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="array new file added.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Max_Min_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Avg_marks_userInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Multi_Dime_Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Multi_DimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/array_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/array_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.And_Or.executor": "Run",
+    "Application.Avg_marks_userInput.executor": "Run",
     "Application.Concepts_str.executor": "Run",
     "Application.Condition_loops.executor": "Run",
     "Application.Factorial_ForLoop.executor": "Run",
@@ -63,7 +68,9 @@
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangle.executor": "Run",
     "Application.Loops_1.executor": "Run",
+    "Application.Max_Salary.executor": "Run",
     "Application.Max_number.executor": "Run",
+    "Application.Multi_Dime_Array1.executor": "Run",
     "Application.Odd_Even.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
@@ -106,9 +113,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.array_6">
-    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
+  <component name="RunManager" selected="Application.Multi_Dime_Array1">
+    <configuration name="Avg_marks_userInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Avg_marks_userInput" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.aray_2" />
+    <configuration name="Largest_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Largest_Salary" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array_1" />
+    <configuration name="Max_Min_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Max_Min_Salary" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,21 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array_3" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="array_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array_4" />
+    <configuration name="Multi_Dime_Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Multi_Dime_Array1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -186,20 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.aray_2" />
-      <item itemvalue="Application.array_1" />
-      <item itemvalue="Application.array_3" />
-      <item itemvalue="Application.array_4" />
+      <item itemvalue="Application.Avg_marks_userInput" />
+      <item itemvalue="Application.Largest_Salary" />
+      <item itemvalue="Application.Max_Min_Salary" />
+      <item itemvalue="Application.Multi_Dime_Array1" />
       <item itemvalue="Application.array_6" />
-      <item itemvalue="Application.Concepts_str" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multi_Dime_Array1" />
+        <item itemvalue="Application.Max_Min_Salary" />
+        <item itemvalue="Application.Largest_Salary" />
+        <item itemvalue="Application.Avg_marks_userInput" />
         <item itemvalue="Application.array_6" />
-        <item itemvalue="Application.array_4" />
-        <item itemvalue="Application.aray_2" />
-        <item itemvalue="Application.array_3" />
-        <item itemvalue="Application.array_1" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00003" summary="V1.2">
-      <option name="closed" value="true" />
-      <created>1721393016264</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1721393016264</updated>
     </task>
     <task id="LOCAL-00004" summary="V1.2">
       <option name="closed" value="true" />
@@ -611,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722709015274</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="array new file added.">
+      <option name="closed" value="true" />
+      <created>1722856956853</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1722856956853</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
