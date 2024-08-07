@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="array new file added.">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Max_Min_Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Avg_marks_userInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Multi_Dime_Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Multi_DimensionalArray.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="2D array added.">
+      <change afterPath="$PROJECT_DIR$/src/Practice/StringBuilder_Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/oopsConcepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/triangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/triangleClassifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +65,16 @@
     "Application.Lab3.executor": "Run",
     "Application.Largest_Salary.executor": "Run",
     "Application.Leap_Year.executor": "Run",
-    "Application.LeftTriangle.executor": "Run",
+    "Application.LeftTriangle.executor": "Debug",
     "Application.Loops_1.executor": "Run",
+    "Application.Max_Min_Salary.executor": "Run",
     "Application.Max_Salary.executor": "Run",
     "Application.Max_number.executor": "Run",
     "Application.Multi_Dime_Array1.executor": "Run",
     "Application.Odd_Even.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
+    "Application.StringBuilder_Buffer.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.aray_2.executor": "Run",
@@ -113,22 +114,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Multi_Dime_Array1">
-    <configuration name="Avg_marks_userInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Avg_marks_userInput" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Largest_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Largest_Salary" />
+  <component name="RunManager" selected="Application.forwithbreakloop">
+    <configuration name="Possitive_NegativeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Possitive_NegativeCheck" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Min_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Max_Min_Salary" />
+    <configuration name="Prog_AgenameSalPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Prog_AgenameSalPrint" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multi_Dime_Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Multi_Dime_Array1" />
+    <configuration name="forWithEvenOddLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.forWithEvenOddLoop" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -166,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array_6" />
+    <configuration name="forwithbreakloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.forwithbreakloop" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.triangleClassifier" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +181,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Avg_marks_userInput" />
-      <item itemvalue="Application.Largest_Salary" />
-      <item itemvalue="Application.Max_Min_Salary" />
-      <item itemvalue="Application.Multi_Dime_Array1" />
-      <item itemvalue="Application.array_6" />
+      <item itemvalue="Application.Possitive_NegativeCheck" />
+      <item itemvalue="Application.Prog_AgenameSalPrint" />
+      <item itemvalue="Application.forWithEvenOddLoop" />
+      <item itemvalue="Application.forwithbreakloop" />
+      <item itemvalue="Application.triangleClassifier" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multi_Dime_Array1" />
-        <item itemvalue="Application.Max_Min_Salary" />
-        <item itemvalue="Application.Largest_Salary" />
-        <item itemvalue="Application.Avg_marks_userInput" />
-        <item itemvalue="Application.array_6" />
+        <item itemvalue="Application.forwithbreakloop" />
+        <item itemvalue="Application.forWithEvenOddLoop" />
+        <item itemvalue="Application.triangleClassifier" />
+        <item itemvalue="Application.Prog_AgenameSalPrint" />
+        <item itemvalue="Application.Possitive_NegativeCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -211,14 +212,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00004" summary="V1.2">
-      <option name="closed" value="true" />
-      <created>1721393120314</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1721393120314</updated>
     </task>
     <task id="LOCAL-00005" summary="V1.3">
       <option name="closed" value="true" />
@@ -604,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722856956853</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2D array added.">
+      <option name="closed" value="true" />
+      <created>1722944827502</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1722944827502</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -619,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leap Year Programme Added." />
     <MESSAGE value="final Keyword" />
     <MESSAGE value="final Keyword and escape characters." />
     <MESSAGE value="Literals and operators file added." />
@@ -644,6 +644,7 @@
     <MESSAGE value="Factorial, loop, break, continue added." />
     <MESSAGE value="array, functions, do while added." />
     <MESSAGE value="array new file added." />
-    <option name="LAST_COMMIT_MESSAGE" value="array new file added." />
+    <MESSAGE value="2D array added." />
+    <option name="LAST_COMMIT_MESSAGE" value="2D array added." />
   </component>
 </project>

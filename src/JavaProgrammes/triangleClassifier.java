@@ -13,7 +13,7 @@ public class triangleClassifier {
         int sides3 = sc.nextInt();
 
 
-       System.out.println("The sides of the triangle are:" +sides1+ ""+ sides2 + "" +sides3);
+       System.out.println("The sides of the triangle are:" +"\n"+sides1+ " " +sides2 + " " +sides3);
 
         if(sides1==sides2 && sides2==sides3)
         {

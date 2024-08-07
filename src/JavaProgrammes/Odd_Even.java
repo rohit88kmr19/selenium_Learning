@@ -7,6 +7,7 @@ public class Odd_Even {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         double user_inp= sc.nextDouble();
+
         if(user_inp%2==0)
         {
             System.out.println("Even");
