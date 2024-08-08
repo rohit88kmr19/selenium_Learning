@@ -64,7 +64,7 @@ public class Concepts_str {
 
         System.out.println(pass_u.equalsIgnoreCase(password));//True because ignoring the lowercase and Upper case letter.
 
-        System.out.println(password.substring(0,4));//
+        System.out.println(password.substring(0,5));//
         System.out.println(password.indexOf('i'));//Index starts from 0
         System.out.println(password.length());//length starts from 1
 

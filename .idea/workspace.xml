@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="2D array added.">
-      <change afterPath="$PROJECT_DIR$/src/Practice/StringBuilder_Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/oopsConcepts.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Some changes.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Bank_mainfunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/BuildingBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MainBuilding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Odd_Even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/triangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/triangleClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Concepts_str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Concepts_str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/oopsConcepts.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,8 @@
   "keyToString": {
     "Application.And_Or.executor": "Run",
     "Application.Avg_marks_userInput.executor": "Run",
+    "Application.Bank_mainfunc.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.Concepts_str.executor": "Run",
     "Application.Condition_loops.executor": "Run",
     "Application.Factorial_ForLoop.executor": "Run",
@@ -67,6 +73,7 @@
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangle.executor": "Debug",
     "Application.Loops_1.executor": "Run",
+    "Application.MainBuilding.executor": "Run",
     "Application.Max_Min_Salary.executor": "Run",
     "Application.Max_Salary.executor": "Run",
     "Application.Max_number.executor": "Run",
@@ -74,6 +81,7 @@
     "Application.Odd_Even.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
+    "Application.Reverse_String.executor": "Debug",
     "Application.StringBuilder_Buffer.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
@@ -94,6 +102,7 @@
     "Application.functions_1.executor": "Run",
     "Application.functions_2.executor": "Run",
     "Application.functions_3.executor": "Run",
+    "Application.oopsConcepts.executor": "Run",
     "Application.swich_cond2.executor": "Run",
     "Application.swich_cond4.executor": "Run",
     "Application.swich_cond5.executor": "Run",
@@ -114,13 +123,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.forwithbreakloop">
-    <configuration name="Possitive_NegativeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Possitive_NegativeCheck" />
+  <component name="RunManager" selected="Application.Bank_mainfunc">
+    <configuration name="Bank_mainfunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Bank_mainfunc" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog_AgenameSalPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Prog_AgenameSalPrint" />
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Car" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,21 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forWithEvenOddLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.forWithEvenOddLoop" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="forwithbreakloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.forwithbreakloop" />
+    <configuration name="Concepts_str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Concepts_str" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +163,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="triangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.triangleClassifier" />
+    <configuration name="Max_Min_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Max_Min_Salary" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Reverse_String" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -181,19 +190,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Possitive_NegativeCheck" />
-      <item itemvalue="Application.Prog_AgenameSalPrint" />
-      <item itemvalue="Application.forWithEvenOddLoop" />
-      <item itemvalue="Application.forwithbreakloop" />
-      <item itemvalue="Application.triangleClassifier" />
+      <item itemvalue="Application.Bank_mainfunc" />
+      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.Max_Min_Salary" />
+      <item itemvalue="Application.Reverse_String" />
+      <item itemvalue="Application.Concepts_str" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.forwithbreakloop" />
-        <item itemvalue="Application.forWithEvenOddLoop" />
-        <item itemvalue="Application.triangleClassifier" />
-        <item itemvalue="Application.Prog_AgenameSalPrint" />
-        <item itemvalue="Application.Possitive_NegativeCheck" />
+        <item itemvalue="Application.Bank_mainfunc" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Reverse_String" />
+        <item itemvalue="Application.Concepts_str" />
+        <item itemvalue="Application.Max_Min_Salary" />
       </list>
     </recent_temporary>
   </component>
@@ -212,14 +221,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00005" summary="V1.3">
-      <option name="closed" value="true" />
-      <created>1721393152416</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1721393152416</updated>
     </task>
     <task id="LOCAL-00006" summary="V1.3">
       <option name="closed" value="true" />
@@ -605,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722944827502</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Some changes.">
+      <option name="closed" value="true" />
+      <created>1723052341633</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1723052341633</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -620,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="final Keyword" />
     <MESSAGE value="final Keyword and escape characters." />
     <MESSAGE value="Literals and operators file added." />
     <MESSAGE value="Literals and And or file added." />
@@ -645,6 +653,7 @@
     <MESSAGE value="array, functions, do while added." />
     <MESSAGE value="array new file added." />
     <MESSAGE value="2D array added." />
-    <option name="LAST_COMMIT_MESSAGE" value="2D array added." />
+    <MESSAGE value="Some changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Some changes." />
   </component>
 </project>
