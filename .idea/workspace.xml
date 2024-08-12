@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Constructor added.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/HierrarchicalInheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/HierrarchicalInheritance/Lucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/HierrarchicalInheritance/main_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/HierrarchicalInheritance/rohit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/HierrarchicalInheritance/ruhani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Father_SH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Main_Father_Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Python.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Son_SH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_relationship.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Inheritance More concepts added.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Swap_withThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/tyre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/BankAccount_MainFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/BankAccount_MainFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Father.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/mainclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/MultiLevelInheritance/mainclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Single_Inheritance/Python.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +89,7 @@
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.Reverse_String.executor": "Debug",
     "Application.StringBuilder_Buffer.executor": "Run",
+    "Application.Swap_withThird.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.aray_2.executor": "Run",
@@ -142,22 +134,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main_class">
+  <component name="RunManager" selected="Application.Swap_withThird">
     <configuration name="BankAccount_MainFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.BankAccount_MainFunc" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Single_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Construc_MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Construc_MainClass" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -175,6 +154,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Oops_programme_cpncepts.Single_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap_withThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Swap_withThird" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,18 +202,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BankAccount_MainFunc" />
-      <item itemvalue="Application.Construc_MainClass" />
       <item itemvalue="Application.Main_Father_Son" />
+      <item itemvalue="Application.Swap_withThird" />
       <item itemvalue="Application.main_class" />
       <item itemvalue="Application.mainclass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main_class" />
+        <item itemvalue="Application.Swap_withThird" />
         <item itemvalue="Application.mainclass" />
+        <item itemvalue="Application.main_class" />
         <item itemvalue="Application.BankAccount_MainFunc" />
         <item itemvalue="Application.Main_Father_Son" />
-        <item itemvalue="Application.Construc_MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00010" summary="JavaProgramme Added.">
-      <option name="closed" value="true" />
-      <created>1721395117705</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1721395117705</updated>
     </task>
     <task id="LOCAL-00011" summary="Lab5 programme added.">
       <option name="closed" value="true" />
@@ -633,7 +617,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723226821888</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Inheritance More concepts added.">
+      <option name="closed" value="true" />
+      <created>1723476528539</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1723476528539</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -648,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Increment_DecremenT added." />
     <MESSAGE value="String Concepts." />
     <MESSAGE value="Ternary added." />
     <MESSAGE value="Ternary added and math sqrt added." />
@@ -673,6 +664,7 @@
     <MESSAGE value="Pyramid programme added." />
     <MESSAGE value="Readme updated" />
     <MESSAGE value="Constructor added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor added." />
+    <MESSAGE value="Inheritance More concepts added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance More concepts added." />
   </component>
 </project>

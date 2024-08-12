@@ -12,7 +12,6 @@ public class mainclass {
         c1.homeF();
         c1.homeC();
 
-
         System.out.println("----------------");
         new Child().homeGF(); // We can also create the object of class in this way directly without using reference.
         new Child().f();

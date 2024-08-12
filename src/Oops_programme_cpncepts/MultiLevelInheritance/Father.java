@@ -2,7 +2,8 @@ package Oops_programme_cpncepts.MultiLevelInheritance;
 
 public class Father extends GrandFather{
 
-    void homeF()
+    int cop=100;
+   void homeF()
     {
 
 
