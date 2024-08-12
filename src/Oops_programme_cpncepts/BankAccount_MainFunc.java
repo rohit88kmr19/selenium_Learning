@@ -1,5 +1,7 @@
 package Oops_programme_cpncepts;
 
+
+
 public class BankAccount_MainFunc {
     public static void main(String[] args) {
 
@@ -15,7 +17,6 @@ public class BankAccount_MainFunc {
         System.out.println(b2.balance);
 
         b2.printDetails();
-
 
 
 
