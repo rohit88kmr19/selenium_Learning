@@ -1,6 +1,6 @@
 package JavaProgrammes;
 
-public class Swap_withThird {
+public class Swap_withhoutThird {
     public static void main(String[] args) {
 
         int a = 10;
