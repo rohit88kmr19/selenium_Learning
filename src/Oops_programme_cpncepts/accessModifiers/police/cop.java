@@ -2,14 +2,17 @@ package Oops_programme_cpncepts.accessModifiers.police;
 
 public class cop {
    public int gun;
-    private String idCard;
+    protected String idCard;
 
     public cop(int gunc)
     {
         this.gun=gunc;
     }
-
-    protected void canIShoot()
+public cop(String idCardc)
+{
+    this.idCard=idCardc;
+}
+     protected void canIShoot()
     {
         System.out.println("Yes, You can !!");
     }

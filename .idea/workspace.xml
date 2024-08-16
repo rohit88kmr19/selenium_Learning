@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Access Modifiers and swap programme added.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Criminal/thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/jrCop.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Access Modifiers added.">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Encapsulation_concepts/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Encapsulation_concepts/Encapsulattion_Modified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/main_poly1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/poly1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Criminal/thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Criminal/thief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/cop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/jrCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/jrCop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +63,8 @@
     "Application.Concepts_str.executor": "Run",
     "Application.Condition_loops.executor": "Run",
     "Application.Construc_MainClass.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.Encapsulattion_Modified.executor": "Run",
     "Application.Factorial_ForLoop.executor": "Run",
     "Application.Factorial_programme.executor": "Run",
     "Application.FibbSeries.executor": "Run",
@@ -81,6 +90,7 @@
     "Application.Max_number.executor": "Run",
     "Application.Multi_Dime_Array1.executor": "Run",
     "Application.Odd_Even.executor": "Run",
+    "Application.Overriding.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.Reverse_String.executor": "Run",
@@ -107,6 +117,7 @@
     "Application.functions_3.executor": "Run",
     "Application.jrCop.executor": "Run",
     "Application.main_class.executor": "Run",
+    "Application.main_poly1.executor": "Run",
     "Application.mainclass.executor": "Run",
     "Application.oopsConcepts.executor": "Run",
     "Application.pyramid_programme.executor": "Run",
@@ -127,18 +138,19 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "JavaProgrammeBranch",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.thief">
-    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Reverse_String" />
+  <component name="RunManager" selected="Application.Overriding">
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Encapsulation_concepts.Encapsulation" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Encapsulation_concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jrCop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.accessModifiers.police.jrCop" />
+    <configuration name="Encapsulattion_Modified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Encapsulation_concepts.Encapsulattion_Modified" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.accessModifiers.police.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Encapsulation_concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pyramid_programme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.pyramid_programme" />
+    <configuration name="Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.PolymorphismConcepts.Overriding" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.PolymorphismConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pyramid_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.pyramid_reverse" />
+    <configuration name="forWithEvenOddLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.forWithEvenOddLoop" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.accessModifiers.Criminal.thief" />
+    <configuration name="main_poly1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.PolymorphismConcepts.main_poly1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.accessModifiers.Criminal.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.PolymorphismConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Reverse_String" />
-      <item itemvalue="Application.jrCop" />
-      <item itemvalue="Application.pyramid_programme" />
-      <item itemvalue="Application.pyramid_reverse" />
-      <item itemvalue="Application.thief" />
+      <item itemvalue="Application.Encapsulation" />
+      <item itemvalue="Application.Encapsulattion_Modified" />
+      <item itemvalue="Application.Overriding" />
+      <item itemvalue="Application.forWithEvenOddLoop" />
+      <item itemvalue="Application.main_poly1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.thief" />
-        <item itemvalue="Application.jrCop" />
-        <item itemvalue="Application.Reverse_String" />
-        <item itemvalue="Application.pyramid_reverse" />
-        <item itemvalue="Application.pyramid_programme" />
+        <item itemvalue="Application.Overriding" />
+        <item itemvalue="Application.main_poly1" />
+        <item itemvalue="Application.Encapsulattion_Modified" />
+        <item itemvalue="Application.Encapsulation" />
+        <item itemvalue="Application.forWithEvenOddLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +242,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Fibbonaci Series Programme Added.">
-      <option name="closed" value="true" />
-      <created>1721630953904</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1721630953904</updated>
     </task>
     <task id="LOCAL-00014" summary="Triangle Pattern Programme Added.">
       <option name="closed" value="true" />
@@ -623,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723484086777</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Access Modifiers added.">
+      <option name="closed" value="true" />
+      <created>1723569148585</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1723569148585</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -638,7 +650,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ternary added." />
     <MESSAGE value="Ternary added and math sqrt added." />
     <MESSAGE value="Ternary added and math sqrt added..." />
     <MESSAGE value="Test file added." />
@@ -663,6 +674,7 @@
     <MESSAGE value="Constructor added." />
     <MESSAGE value="Inheritance More concepts added." />
     <MESSAGE value="Access Modifiers and swap programme added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Access Modifiers and swap programme added." />
+    <MESSAGE value="Access Modifiers added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Access Modifiers added." />
   </component>
 </project>

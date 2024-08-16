@@ -8,6 +8,8 @@ public class Car {
         new tyre().rolling();
 
 
+
+
         //This is called has-A relationship as the car has engine and tyres and here we are not using  extends in accesing
         //the methods and attributes.Also, called aggregation.
     }
