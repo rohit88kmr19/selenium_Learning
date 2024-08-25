@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Access Modifiers added.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Encapsulation_concepts/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Encapsulation_concepts/Encapsulattion_Modified.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Hound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/main_poly1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/poly1.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Encapsulation , Method overloading and overriding added.">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Interface/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/RealTimeInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/Nexon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/RealLifeEx_Abstra/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/RealLifeEx_Abstra/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/RealLifeEx_Abstra/FireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/RealLifeEx_Abstra/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/abstraction/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/superconcepts/concepts_sup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Criminal/thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/Criminal/thief.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/cop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/jrCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/accessModifiers/police/jrCop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/hasA_Relationship/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/PolymorphismConcepts/Overriding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +75,7 @@
     "Application.Final_Keyword.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.Grade.executor": "Run",
+    "Application.I1.executor": "Run",
     "Application.If_loop.executor": "Run",
     "Application.Implicit_Explicit.executor": "Run",
     "Application.Increment_Decrement.executor": "Run",
@@ -83,6 +88,7 @@
     "Application.Local_variable.executor": "Run",
     "Application.Loops_1.executor": "Run",
     "Application.MainBuilding.executor": "Run",
+    "Application.MainClass.executor": "Run",
     "Application.Main_Father_Son.executor": "Run",
     "Application.Main_personclass.executor": "Run",
     "Application.Max_Min_Salary.executor": "Run",
@@ -93,6 +99,7 @@
     "Application.Overriding.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
+    "Application.RealTimeInheritance.executor": "Run",
     "Application.Reverse_String.executor": "Run",
     "Application.StringBuilder_Buffer.executor": "Run",
     "Application.Swap_withThird.executor": "Run",
@@ -103,6 +110,7 @@
     "Application.array_3.executor": "Run",
     "Application.array_4.executor": "Run",
     "Application.array_6.executor": "Run",
+    "Application.concepts_sup.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.doWhileLoop1.executor": "Run",
     "Application.forLoopContinue.executor": "Run",
@@ -116,6 +124,7 @@
     "Application.functions_2.executor": "Run",
     "Application.functions_3.executor": "Run",
     "Application.jrCop.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.main_class.executor": "Run",
     "Application.main_poly1.executor": "Run",
     "Application.mainclass.executor": "Run",
@@ -144,13 +153,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Overriding">
-    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Encapsulation_concepts.Encapsulation" />
+  <component name="RunManager" selected="Application.I1">
+    <configuration name="I1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Interface.I1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Encapsulation_concepts.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulattion_Modified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Encapsulation_concepts.Encapsulattion_Modified" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.abstraction.MainClass" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Encapsulation_concepts.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forWithEvenOddLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.forWithEvenOddLoop" />
+    <configuration name="RealTimeInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.RealTimeInheritance" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main_poly1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.PolymorphismConcepts.main_poly1" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.abstraction.RealLifeEx_Abstra.main" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.PolymorphismConcepts.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.abstraction.RealLifeEx_Abstra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Encapsulation" />
-      <item itemvalue="Application.Encapsulattion_Modified" />
+      <item itemvalue="Application.I1" />
+      <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.Overriding" />
-      <item itemvalue="Application.forWithEvenOddLoop" />
-      <item itemvalue="Application.main_poly1" />
+      <item itemvalue="Application.RealTimeInheritance" />
+      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I1" />
         <item itemvalue="Application.Overriding" />
-        <item itemvalue="Application.main_poly1" />
-        <item itemvalue="Application.Encapsulattion_Modified" />
-        <item itemvalue="Application.Encapsulation" />
-        <item itemvalue="Application.forWithEvenOddLoop" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.RealTimeInheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -242,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Triangle Pattern Programme Added.">
-      <option name="closed" value="true" />
-      <created>1721631240808</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1721631240808</updated>
     </task>
     <task id="LOCAL-00015" summary="Triangle Pattern Programme Added.">
       <option name="closed" value="true" />
@@ -635,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723569148585</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Encapsulation , Method overloading and overriding added.">
+      <option name="closed" value="true" />
+      <created>1723807740598</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1723807740598</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -650,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ternary added and math sqrt added." />
     <MESSAGE value="Ternary added and math sqrt added..." />
     <MESSAGE value="Test file added." />
     <MESSAGE value="Condition loops" />
@@ -675,6 +683,7 @@
     <MESSAGE value="Inheritance More concepts added." />
     <MESSAGE value="Access Modifiers and swap programme added." />
     <MESSAGE value="Access Modifiers added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Access Modifiers added." />
+    <MESSAGE value="Encapsulation , Method overloading and overriding added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation , Method overloading and overriding added." />
   </component>
 </project>

@@ -14,7 +14,7 @@ public class Overriding {
         Hound h1 = new Hound();
         h1.bark();
 
-        Dog ref = new Hound();
+        Dog ref = new Hound();// Dynamic dipatch/ run time polymorphism
         ref.bark();
     }
 }
