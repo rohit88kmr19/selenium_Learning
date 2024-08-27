@@ -5,11 +5,14 @@ public class Swap_withhoutThird {
 
         int a = 10;
         int b = 20;
-        int temp;
-
-      temp=a;
-      a=b;
-      b=temp;
+//        int temp;
+//
+//      temp=a;
+//      a=b;
+//      b=temp;
+        a=a+b;
+        b=a-b;
+        a=a-b;
 
         System.out.println(+a +" " +b);
     }

@@ -2,7 +2,7 @@ package JavaProgrammes;
 
 public class FibbSeries {
     public static void main(String[] args) {
-        fibCal();
+        FibbSeries.fibCal();
     }
     public static void fibCal()
     {

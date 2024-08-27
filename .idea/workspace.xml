@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Encapsulation , Method overloading and overriding added.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Stat_Keyword/NestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Stat_Keyword/stat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Wrapper/wrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Wrapper/wrap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Wrapper/wrap2.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Nested Class, Static Keyword, Wrappers.">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/APICons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Wrapper/TC1Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -94,6 +94,7 @@
     "Application.StringBuilder_Buffer.executor": "Run",
     "Application.Swap_withThird.executor": "Run",
     "Application.Swich_cond.executor": "Run",
+    "Application.TC1Main.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.aray_2.executor": "Run",
     "Application.array_1.executor": "Run",
@@ -119,7 +120,7 @@
     "Application.main_poly1.executor": "Run",
     "Application.mainclass.executor": "Run",
     "Application.oopsConcepts.executor": "Run",
-    "Application.pyramid_programme.executor": "Run",
+    "Application.pyramid_programme.executor": "Debug",
     "Application.pyramid_reverse.executor": "Run",
     "Application.stat.executor": "Run",
     "Application.swich_cond2.executor": "Run",
@@ -147,13 +148,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.stat">
-    <configuration name="I1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Interface.I1" />
+  <component name="RunManager" selected="Application.triangleClassifier">
+    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LeftTriangle" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Interface.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Stat_Keyword.stat" />
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Reverse_String" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Stat_Keyword.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Wrapper.wrap" />
+    <configuration name="Swap_withhoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Swap_withhoutThird" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Wrapper.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wrap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Wrapper.wrap1" />
+    <configuration name="pyramid_programme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.pyramid_programme" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Wrapper.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wrap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Wrapper.wrap2" />
+    <configuration name="triangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.triangleClassifier" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Wrapper.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.I1" />
-      <item itemvalue="Application.stat" />
-      <item itemvalue="Application.wrap" />
-      <item itemvalue="Application.wrap1" />
-      <item itemvalue="Application.wrap2" />
+      <item itemvalue="Application.LeftTriangle" />
+      <item itemvalue="Application.Reverse_String" />
+      <item itemvalue="Application.Swap_withhoutThird" />
+      <item itemvalue="Application.pyramid_programme" />
+      <item itemvalue="Application.triangleClassifier" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stat" />
-        <item itemvalue="Application.wrap2" />
-        <item itemvalue="Application.wrap" />
-        <item itemvalue="Application.wrap1" />
-        <item itemvalue="Application.I1" />
+        <item itemvalue="Application.triangleClassifier" />
+        <item itemvalue="Application.Swap_withhoutThird" />
+        <item itemvalue="Application.Reverse_String" />
+        <item itemvalue="Application.pyramid_programme" />
+        <item itemvalue="Application.LeftTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -245,14 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Triangle Classifier Programme Added.">
-      <option name="closed" value="true" />
-      <created>1721632267205</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1721632267205</updated>
     </task>
     <task id="LOCAL-00017" summary="Leap Year Programme Added.">
       <option name="closed" value="true" />
@@ -638,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724599578834</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Nested Class, Static Keyword, Wrappers.">
+      <option name="closed" value="true" />
+      <created>1724675707679</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1724675707680</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,7 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ternary added and math sqrt added..." />
     <MESSAGE value="Test file added." />
     <MESSAGE value="Condition loops" />
     <MESSAGE value="Largest salary, left triangle, loops added." />
@@ -678,6 +678,23 @@
     <MESSAGE value="Access Modifiers and swap programme added." />
     <MESSAGE value="Access Modifiers added." />
     <MESSAGE value="Encapsulation , Method overloading and overriding added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation , Method overloading and overriding added." />
+    <MESSAGE value="Nested Class, Static Keyword, Wrappers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested Class, Static Keyword, Wrappers." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
