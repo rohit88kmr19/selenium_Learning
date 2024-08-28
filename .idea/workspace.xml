@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Nested Class, Static Keyword, Wrappers.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/APICons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Wrapper/TC1Main.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Enum Keyword.">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Except2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exceptio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exception4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,10 @@
     "Application.Construc_MainClass.executor": "Run",
     "Application.Encapsulation.executor": "Run",
     "Application.Encapsulattion_Modified.executor": "Run",
+    "Application.Except2.executor": "Run",
+    "Application.Exceptio3.executor": "Run",
+    "Application.Exception1.executor": "Run",
+    "Application.Exceptions.executor": "Run",
     "Application.Factorial_ForLoop.executor": "Run",
     "Application.Factorial_programme.executor": "Run",
     "Application.FibbSeries.executor": "Run",
@@ -93,6 +98,7 @@
     "Application.Reverse_String.executor": "Run",
     "Application.StringBuilder_Buffer.executor": "Run",
     "Application.Swap_withThird.executor": "Run",
+    "Application.Swap_withhoutThird.executor": "Run",
     "Application.Swich_cond.executor": "Run",
     "Application.TC1Main.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
@@ -148,13 +154,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.triangleClassifier">
-    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LeftTriangle" />
+  <component name="RunManager" selected="Application.Exceptio3">
+    <configuration name="Except2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Except2" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Reverse_String" />
+    <configuration name="Exceptio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exceptio3" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap_withhoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Swap_withhoutThird" />
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exception1" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pyramid_programme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.pyramid_programme" />
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exceptions" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +221,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeftTriangle" />
-      <item itemvalue="Application.Reverse_String" />
-      <item itemvalue="Application.Swap_withhoutThird" />
-      <item itemvalue="Application.pyramid_programme" />
+      <item itemvalue="Application.Except2" />
+      <item itemvalue="Application.Exceptio3" />
+      <item itemvalue="Application.Exception1" />
+      <item itemvalue="Application.Exceptions" />
       <item itemvalue="Application.triangleClassifier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exceptio3" />
+        <item itemvalue="Application.Except2" />
+        <item itemvalue="Application.Exception1" />
+        <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.triangleClassifier" />
-        <item itemvalue="Application.Swap_withhoutThird" />
-        <item itemvalue="Application.Reverse_String" />
-        <item itemvalue="Application.pyramid_programme" />
-        <item itemvalue="Application.LeftTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -246,14 +252,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Leap Year Programme Added.">
-      <option name="closed" value="true" />
-      <created>1721633218050</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1721633218051</updated>
     </task>
     <task id="LOCAL-00018" summary="final Keyword">
       <option name="closed" value="true" />
@@ -639,7 +637,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724675707680</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Enum Keyword.">
+      <option name="closed" value="true" />
+      <created>1724759359704</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1724759359704</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test file added." />
     <MESSAGE value="Condition loops" />
     <MESSAGE value="Largest salary, left triangle, loops added." />
     <MESSAGE value="odd even added" />
@@ -679,7 +684,8 @@
     <MESSAGE value="Access Modifiers added." />
     <MESSAGE value="Encapsulation , Method overloading and overriding added." />
     <MESSAGE value="Nested Class, Static Keyword, Wrappers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested Class, Static Keyword, Wrappers." />
+    <MESSAGE value="Enum Keyword." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enum Keyword." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
