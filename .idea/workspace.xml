@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Enum Keyword.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Except2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exceptio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exception4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exceptions.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Exception added.">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF2_Lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF3_Lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF4_lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF5_lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF6_lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exccepti6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Excepti5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Thro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/except7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +61,23 @@
     "Application.And_Or.executor": "Run",
     "Application.Avg_marks_userInput.executor": "Run",
     "Application.BankAccount_MainFunc.executor": "Run",
+    "Application.BankMain.executor": "Run",
     "Application.Bank_mainfunc.executor": "Run",
+    "Application.CF2_Lis.executor": "Run",
+    "Application.CF3_Lis.executor": "Run",
+    "Application.CF4_lis.executor": "Run",
+    "Application.CF5_lis.executor": "Run",
+    "Application.CF6_lis.executor": "Run",
+    "Application.CF7_lis.executor": "Run",
     "Application.Car.executor": "Run",
     "Application.Concepts_str.executor": "Run",
     "Application.Condition_loops.executor": "Run",
     "Application.Construc_MainClass.executor": "Run",
     "Application.Encapsulation.executor": "Run",
     "Application.Encapsulattion_Modified.executor": "Run",
+    "Application.Exccepti6.executor": "Run",
     "Application.Except2.executor": "Run",
+    "Application.Excepti5.executor": "Run",
     "Application.Exceptio3.executor": "Run",
     "Application.Exception1.executor": "Run",
     "Application.Exceptions.executor": "Run",
@@ -102,6 +119,7 @@
     "Application.Swich_cond.executor": "Run",
     "Application.TC1Main.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
+    "Application.Thro.executor": "Run",
     "Application.aray_2.executor": "Run",
     "Application.array_1.executor": "Run",
     "Application.array_3.executor": "Run",
@@ -110,6 +128,7 @@
     "Application.concepts_sup.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.doWhileLoop1.executor": "Run",
+    "Application.except7.executor": "Run",
     "Application.forLoopContinue.executor": "Run",
     "Application.forWithEvenOddLoop.executor": "Run",
     "Application.for_loop.executor": "Run",
@@ -154,13 +173,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exceptio3">
-    <configuration name="Except2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Except2" />
+  <component name="RunManager" selected="Application.CF4_lis">
+    <configuration name="CF3_Lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF3_Lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exceptio3" />
+    <configuration name="CF4_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF4_lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exception1" />
+    <configuration name="CF5_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF5_lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.Excepti.Exceptions" />
+    <configuration name="CF6_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF6_lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.Excepti.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="triangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.triangleClassifier" />
+    <configuration name="CF7_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF7_lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgrammes.*" />
+          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,19 +240,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Except2" />
-      <item itemvalue="Application.Exceptio3" />
-      <item itemvalue="Application.Exception1" />
-      <item itemvalue="Application.Exceptions" />
-      <item itemvalue="Application.triangleClassifier" />
+      <item itemvalue="Application.CF3_Lis" />
+      <item itemvalue="Application.CF4_lis" />
+      <item itemvalue="Application.CF5_lis" />
+      <item itemvalue="Application.CF6_lis" />
+      <item itemvalue="Application.CF7_lis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exceptio3" />
-        <item itemvalue="Application.Except2" />
-        <item itemvalue="Application.Exception1" />
-        <item itemvalue="Application.Exceptions" />
-        <item itemvalue="Application.triangleClassifier" />
+        <item itemvalue="Application.CF4_lis" />
+        <item itemvalue="Application.CF7_lis" />
+        <item itemvalue="Application.CF6_lis" />
+        <item itemvalue="Application.CF5_lis" />
+        <item itemvalue="Application.CF3_Lis" />
       </list>
     </recent_temporary>
   </component>
@@ -252,14 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00018" summary="final Keyword">
-      <option name="closed" value="true" />
-      <created>1721738150029</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1721738150029</updated>
     </task>
     <task id="LOCAL-00019" summary="final Keyword">
       <option name="closed" value="true" />
@@ -645,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724759359704</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Exception added.">
+      <option name="closed" value="true" />
+      <created>1724845230163</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1724845230165</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -660,7 +679,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Condition loops" />
     <MESSAGE value="Largest salary, left triangle, loops added." />
     <MESSAGE value="odd even added" />
     <MESSAGE value="odd even added- changes." />
@@ -685,7 +703,8 @@
     <MESSAGE value="Encapsulation , Method overloading and overriding added." />
     <MESSAGE value="Nested Class, Static Keyword, Wrappers." />
     <MESSAGE value="Enum Keyword." />
-    <option name="LAST_COMMIT_MESSAGE" value="Enum Keyword." />
+    <MESSAGE value="Exception added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
