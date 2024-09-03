@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Exception added.">
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF2_Lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF3_Lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF4_lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF5_lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF6_lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/BankMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Exccepti6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Excepti5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/Thro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/Excepti/except7.java" afterDir="false" />
+    <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Collection Framework and Exception">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +161,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CF4_lis">
+  <component name="RunManager" selected="Application.CF7_lis">
     <configuration name="CF3_Lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF3_Lis" />
       <module name="Selenium_TestingAcademy" />
@@ -248,8 +236,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CF4_lis" />
         <item itemvalue="Application.CF7_lis" />
+        <item itemvalue="Application.CF4_lis" />
         <item itemvalue="Application.CF6_lis" />
         <item itemvalue="Application.CF5_lis" />
         <item itemvalue="Application.CF3_Lis" />
@@ -271,14 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00019" summary="final Keyword">
-      <option name="closed" value="true" />
-      <created>1721738200026</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1721738200026</updated>
     </task>
     <task id="LOCAL-00020" summary="final Keyword and escape characters.">
       <option name="closed" value="true" />
@@ -664,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724845230165</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Collection Framework and Exception">
+      <option name="closed" value="true" />
+      <created>1725204447548</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1725204447548</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +667,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Largest salary, left triangle, loops added." />
     <MESSAGE value="odd even added" />
     <MESSAGE value="odd even added- changes." />
     <MESSAGE value="odd even added- changes, max programme" />
@@ -704,7 +691,8 @@
     <MESSAGE value="Nested Class, Static Keyword, Wrappers." />
     <MESSAGE value="Enum Keyword." />
     <MESSAGE value="Exception added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception added." />
+    <MESSAGE value="Collection Framework and Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection Framework and Exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
