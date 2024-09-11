@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="Collection Framework and Exception">
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_concepts1/BuildingBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_concepts1/Buildingmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_programme_concepts1/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF7_lis.java" afterDir="false" />
     </list>
@@ -51,6 +54,7 @@
     "Application.BankAccount_MainFunc.executor": "Run",
     "Application.BankMain.executor": "Run",
     "Application.Bank_mainfunc.executor": "Run",
+    "Application.Buildingmain.executor": "Run",
     "Application.CF2_Lis.executor": "Run",
     "Application.CF3_Lis.executor": "Run",
     "Application.CF4_lis.executor": "Run",
@@ -97,6 +101,7 @@
     "Application.Multi_Dime_Array1.executor": "Run",
     "Application.Odd_Even.executor": "Run",
     "Application.Overriding.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.Possitive_NegativeCheck.executor": "Run",
     "Application.Prog_AgenameSalPrint.executor": "Run",
     "Application.RealTimeInheritance.executor": "Run",
@@ -161,13 +166,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CF7_lis">
-    <configuration name="CF3_Lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF3_Lis" />
+  <component name="RunManager" selected="Application.Buildingmain">
+    <configuration name="Buildingmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_concepts1.Buildingmain" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
+          <option name="PATTERN" value="Oops_programme_concepts1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +182,6 @@
     </configuration>
     <configuration name="CF4_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF4_lis" />
-      <module name="Selenium_TestingAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CF5_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF5_lis" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
@@ -227,20 +219,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops_programme_concepts1.Person" />
+      <module name="Selenium_TestingAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oops_programme_concepts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CF3_Lis" />
+      <item itemvalue="Application.Buildingmain" />
       <item itemvalue="Application.CF4_lis" />
-      <item itemvalue="Application.CF5_lis" />
       <item itemvalue="Application.CF6_lis" />
       <item itemvalue="Application.CF7_lis" />
+      <item itemvalue="Application.Person" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Buildingmain" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.CF7_lis" />
         <item itemvalue="Application.CF4_lis" />
         <item itemvalue="Application.CF6_lis" />
-        <item itemvalue="Application.CF5_lis" />
-        <item itemvalue="Application.CF3_Lis" />
       </list>
     </recent_temporary>
   </component>
@@ -259,14 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721392518397</updated>
-    </task>
-    <task id="LOCAL-00020" summary="final Keyword and escape characters.">
-      <option name="closed" value="true" />
-      <created>1721738677090</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1721738677090</updated>
     </task>
     <task id="LOCAL-00021" summary="Literals and operators file added.">
       <option name="closed" value="true" />
@@ -652,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725204447548</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Collection Framework and Exception">
+      <option name="closed" value="true" />
+      <created>1725369322618</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1725369322619</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
