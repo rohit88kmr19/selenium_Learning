@@ -5,7 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e22e4b21-f87f-4135-913c-c9336c0820f5" name="Changes" comment="New Oops practice started.">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ArrayPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/CommonArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ConvertStringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/CountEachCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/CountOfoccurenceOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/DuplicateCharString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/FirstLastElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/LowerUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/MissingNoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/OddEvenCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/PrintEvenIndexedCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/RemoveDuplicatesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/RemoveDuplicatesFromNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ReverseEachWordString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/ReverseWordOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/SecondLargestSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/StringNumberExract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/SumOnlyNumbersInsteadofLettersAndSpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgrammes/TwoNumSumWithTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/FibbSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgrammes/Largest_Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_programme_cpncepts/CollectionFramewo/CF1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +61,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rohit88kmr19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rohit88kmr19/selenium_Learning.git&quot;,
+    &quot;accountId&quot;: &quot;1fe587b6-baef-413d-8f5f-497d290ea3e9&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,132 +87,166 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.And_Or.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Avg_marks_userInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccount_MainFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank_mainfunc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Buildingmain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF2_Lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF3_Lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF4_lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF5_lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF6_lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF7_lis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concepts_str.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Condition_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Construc_MainClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulattion_Modified.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exccepti6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Except2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Excepti5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exceptio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial_ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial_programme.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibbSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.I1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Implicit_Explicit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Increment_Decrement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LIterals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_Salary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leap_Year.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Local_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBuilding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_Father_Son.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_personclass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_Min_Salary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_Salary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multi_Dime_Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Odd_Even.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overriding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Possitive_NegativeCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_AgenameSalPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RealTimeInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilder_Buffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_withThird.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_withhoutThird.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swich_cond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TC1Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aray_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concepts_sup.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doWhileLoop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.except7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forLoopContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forWithEvenOddLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forwithbreakloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functions_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functions_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functions_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.jrCop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main_poly1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mainclass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.oopsConcepts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pyramid_programme.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.pyramid_reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.swich_cond2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.swich_cond4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.swich_cond5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.swich_cond6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.switch_cond1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.thief.executor&quot;: &quot;Run&quot;,
-    &quot;Application.triangleClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.trianglePattern.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.trianglePattern_rightTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileLoop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wrap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wrap1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wrap2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;JavaProgrammeBranch&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.And_Or.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrayCopy.executor": "Run",
+    "Application.ArrayPrimeNumber.executor": "Run",
+    "Application.Avg_marks_userInput.executor": "Run",
+    "Application.BankAccount_MainFunc.executor": "Run",
+    "Application.BankMain.executor": "Run",
+    "Application.Bank_mainfunc.executor": "Run",
+    "Application.Buildingmain.executor": "Run",
+    "Application.CF2_Lis.executor": "Run",
+    "Application.CF3_Lis.executor": "Run",
+    "Application.CF4_lis.executor": "Run",
+    "Application.CF5_lis.executor": "Run",
+    "Application.CF6_lis.executor": "Run",
+    "Application.CF7_lis.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CommonArrays.executor": "Run",
+    "Application.Concepts_str.executor": "Run",
+    "Application.Condition_loops.executor": "Run",
+    "Application.Construc_MainClass.executor": "Run",
+    "Application.ConvertStringToInt.executor": "Run",
+    "Application.CountEachCharacter.executor": "Run",
+    "Application.CountOfoccurenceOfCharacter.executor": "Run",
+    "Application.CountWord.executor": "Run",
+    "Application.DuplicateCharString.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.Encapsulattion_Modified.executor": "Run",
+    "Application.Exccepti6.executor": "Run",
+    "Application.Except2.executor": "Run",
+    "Application.Excepti5.executor": "Run",
+    "Application.Exceptio3.executor": "Run",
+    "Application.Exception1.executor": "Run",
+    "Application.Exceptions.executor": "Run",
+    "Application.Factorial_ForLoop.executor": "Run",
+    "Application.Factorial_programme.executor": "Run",
+    "Application.FibbSeries.executor": "Run",
+    "Application.Final_Keyword.executor": "Run",
+    "Application.FirstLastElement.executor": "Run",
+    "Application.FizzBuzzTest.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.I1.executor": "Run",
+    "Application.If_loop.executor": "Run",
+    "Application.Implicit_Explicit.executor": "Run",
+    "Application.Increment_Decrement.executor": "Run",
+    "Application.LIterals.executor": "Run",
+    "Application.Lab1.executor": "Run",
+    "Application.Lab3.executor": "Run",
+    "Application.Largest_Salary.executor": "Run",
+    "Application.Leap_Year.executor": "Run",
+    "Application.LeftTriangle.executor": "Run",
+    "Application.Local_variable.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.Loops_1.executor": "Run",
+    "Application.LowerUpperCase.executor": "Run",
+    "Application.MainBuilding.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.Main_Father_Son.executor": "Run",
+    "Application.Main_personclass.executor": "Run",
+    "Application.Max_Min_Salary.executor": "Run",
+    "Application.Max_Salary.executor": "Run",
+    "Application.Max_number.executor": "Run",
+    "Application.MergeArray.executor": "Run",
+    "Application.MissingNoArray.executor": "Run",
+    "Application.Multi_Dime_Array1.executor": "Run",
+    "Application.OddEvenCount.executor": "Run",
+    "Application.Odd_Even.executor": "Run",
+    "Application.Overriding.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Possitive_NegativeCheck.executor": "Run",
+    "Application.PrimeNumbers.executor": "Run",
+    "Application.PrintEvenIndexedCharacters.executor": "Run",
+    "Application.Prog_AgenameSalPrint.executor": "Run",
+    "Application.RealTimeInheritance.executor": "Run",
+    "Application.RemoveDuplicatesArray.executor": "Run",
+    "Application.RemoveDuplicatesFromNo.executor": "Run",
+    "Application.ReverseEachWordString.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseWordOnly.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
+    "Application.SecondLargestSalary.executor": "Run",
+    "Application.SortArray.executor": "Debug",
+    "Application.StringBuilder_Buffer.executor": "Run",
+    "Application.StringNumberExract.executor": "Run",
+    "Application.Swap_withThird.executor": "Run",
+    "Application.Swap_withhoutThird.executor": "Run",
+    "Application.Swich_cond.executor": "Run",
+    "Application.TC1Main.executor": "Run",
+    "Application.Ternary_operator.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestPrac.executor": "Run",
+    "Application.Thro.executor": "Run",
+    "Application.TwoNumSumWithTarget.executor": "Debug",
+    "Application.aray_2.executor": "Run",
+    "Application.array_1.executor": "Run",
+    "Application.array_3.executor": "Run",
+    "Application.array_4.executor": "Run",
+    "Application.array_6.executor": "Run",
+    "Application.concepts_sup.executor": "Run",
+    "Application.doWhileLoop.executor": "Run",
+    "Application.doWhileLoop1.executor": "Run",
+    "Application.except7.executor": "Run",
+    "Application.forLoopContinue.executor": "Run",
+    "Application.forWithEvenOddLoop.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.for_loop2.executor": "Run",
+    "Application.for_loop3.executor": "Run",
+    "Application.for_loop4.executor": "Run",
+    "Application.forwithbreakloop.executor": "Run",
+    "Application.functions_1.executor": "Run",
+    "Application.functions_2.executor": "Run",
+    "Application.functions_3.executor": "Run",
+    "Application.jrCop.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.main_class.executor": "Run",
+    "Application.main_poly1.executor": "Run",
+    "Application.mainclass.executor": "Run",
+    "Application.oopsConcepts.executor": "Run",
+    "Application.pyramid_programme.executor": "Debug",
+    "Application.pyramid_reverse.executor": "Run",
+    "Application.stat.executor": "Run",
+    "Application.swich_cond2.executor": "Run",
+    "Application.swich_cond4.executor": "Run",
+    "Application.swich_cond5.executor": "Run",
+    "Application.swich_cond6.executor": "Run",
+    "Application.switch_cond1.executor": "Run",
+    "Application.thief.executor": "Run",
+    "Application.triangleClassifier.executor": "Run",
+    "Application.trianglePattern.executor": "Debug",
+    "Application.trianglePattern_rightTriangle.executor": "Run",
+    "Application.whileLoop1.executor": "Run",
+    "Application.whileLoops.executor": "Run",
+    "Application.wrap.executor": "Run",
+    "Application.wrap1.executor": "Run",
+    "Application.wrap2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "JavaProgrammeBranch",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Buildingmain">
-    <configuration name="Buildingmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_concepts1.Buildingmain" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Selenium_TestingAcademy\src\Postman_colletion_E2E_Scenarios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CountEachCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.CountEachCharacter" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_concepts1.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF4_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF4_lis" />
+    <configuration name="CountOfoccurenceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.CountOfoccurenceOfCharacter" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF6_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF6_lis" />
+    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.FizzBuzzTest" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF7_lis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_cpncepts.CollectionFramewo.CF7_lis" />
+    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.LongestPalindromicSubstring" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_cpncepts.CollectionFramewo.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops_programme_concepts1.Person" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgrammes.Test" />
       <module name="Selenium_TestingAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops_programme_concepts1.*" />
+          <option name="PATTERN" value="JavaProgrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,28 +307,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Buildingmain" />
-      <item itemvalue="Application.CF4_lis" />
-      <item itemvalue="Application.CF6_lis" />
-      <item itemvalue="Application.CF7_lis" />
-      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.CountOfoccurenceOfCharacter" />
+      <item itemvalue="Application.FizzBuzzTest" />
+      <item itemvalue="Application.LongestPalindromicSubstring" />
+      <item itemvalue="Application.CountEachCharacter" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Buildingmain" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.CF7_lis" />
-        <item itemvalue="Application.CF4_lis" />
-        <item itemvalue="Application.CF6_lis" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LongestPalindromicSubstring" />
+        <item itemvalue="Application.FizzBuzzTest" />
+        <item itemvalue="Application.CountOfoccurenceOfCharacter" />
+        <item itemvalue="Application.CountEachCharacter" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -694,21 +765,5 @@
     <MESSAGE value="Collection Framework and Exception" />
     <MESSAGE value="New Oops practice started." />
     <option name="LAST_COMMIT_MESSAGE" value="New Oops practice started." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaProgrammes/pyramid_programme.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

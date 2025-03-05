@@ -1,5 +1,6 @@
 package JavaProgrammes;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Largest_Salary {
@@ -24,5 +25,6 @@ public class Largest_Salary {
                 }
             }
                  System.out.println("The highest salary is:--"+highest_sal);
+
         }
     }

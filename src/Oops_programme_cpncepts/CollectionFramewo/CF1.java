@@ -12,8 +12,7 @@ public class CF1 {
         // Array can store one type of data type. For ex - if Int is stored then it will store integer only.
         // Array List has solved all the problems but here we can add other type of data type.
 
-
-
+        
 
 
 
